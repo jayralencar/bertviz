@@ -24,7 +24,7 @@ requirejs(['jquery', 'd3'], function ($, d3) {
     const params = PYTHON_PARAMS; // HACK: PYTHON_PARAMS is a template marker that is replaced by actual params.
     const TEXT_SIZE = 15;
     const BOXWIDTH = 110;
-    const BOXHEIGHT = 22.5;
+    const BOXHEIGHT = 110;
     const MATRIX_WIDTH = 115;
     const CHECKBOX_SIZE = 20;
     const TEXT_TOP = 30;
